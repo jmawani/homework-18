@@ -7,7 +7,7 @@
   }
   
   .jumbotron {
-      background-image: url(/Images/Profile\ Picture.png);
+      background-image: url("/Images/Profile\ Picture.png");
       background-size: 70%;
       background-position-x: 100%;
       background-repeat: no-repeat;
